@@ -1,0 +1,40 @@
+{
+  "name": "feb-stepper",
+  "authors": [
+    "FlemmingBehrend <feb@topdanmark.dk>"
+  ],
+  "description": "Angular directive to show steps visually",
+  "version": "1.0.1",
+  "main": [
+    "stepper.js",
+    "stepper.css"
+  ],
+  "private": true,
+  "ignore": [
+    "stepper.gif",
+    "example.html",
+    "README.md",
+    "stepper.spec.js",
+    ".gitignore",
+    ".travis.yml",
+    "karma.conf.js"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.8"
+  },
+  "homepage": "https://github.com/FlemmingBehrend/feb-stepper",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "9b1cd8e976b7bd315fd35271c1812c6c261173b1"
+  },
+  "_source": "git://github.com/FlemmingBehrend/feb-stepper.git",
+  "_target": "^1.0.1",
+  "_originalSource": "FlemmingBehrend/feb-stepper",
+  "_direct": true
+}
